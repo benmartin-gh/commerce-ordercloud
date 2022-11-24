@@ -1,0 +1,55 @@
+{
+	"Meta": {
+		"Page": 1,
+		"PageSize": 20,
+		"TotalCount": 4,
+		"TotalPages": 1,
+		"ItemRange": [
+			1,
+			4
+		],
+		"NextPageKey": null
+	},
+	"Items": [
+		{
+			"ID": "headwear",
+			"Name": "Headwear",
+			"Description": null,
+			"ListOrder": 1,
+			"Active": true,
+			"ParentID": null,
+			"ChildCount": 0,
+			"xp": null
+		},
+		{
+			"ID": "shirts",
+			"Name": "Shirts",
+			"Description": null,
+			"ListOrder": 2,
+			"Active": true,
+			"ParentID": null,
+			"ChildCount": 0,
+			"xp": null
+		},
+		{
+			"ID": "jackets",
+			"Name": "Jackets",
+			"Description": null,
+			"ListOrder": 3,
+			"Active": true,
+			"ParentID": null,
+			"ChildCount": 0,
+			"xp": null
+		},
+		{
+			"ID": "bottoms",
+			"Name": "Bottoms",
+			"Description": null,
+			"ListOrder": 4,
+			"Active": true,
+			"ParentID": null,
+			"ChildCount": 0,
+			"xp": null
+		}
+	]
+}

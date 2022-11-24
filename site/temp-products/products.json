@@ -1,0 +1,105 @@
+{
+	"Meta": {
+		"Facets": [],
+		"Page": 1,
+		"PageSize": 20,
+		"TotalCount": 2,
+		"TotalPages": 1,
+		"ItemRange": [
+			1,
+			2
+		],
+		"NextPageKey": null
+	},
+	"Items": [
+		{
+			"OwnerID": "TApMOk6Uj1P8syWT",
+			"DefaultPriceScheduleID": "black-hat",
+			"AutoForward": false,
+			"ID": "black-hat",
+			"Name": "Black Hat",
+			"Description": "The Next.js beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing.\n\n• 60% cotton, 40% acrylic\n• Breathable cotton blend\n• Form-fitting shape\n• One size fits most",
+			"QuantityMultiplier": 1,
+			"ShipWeight": null,
+			"ShipHeight": null,
+			"ShipWidth": null,
+			"ShipLength": null,
+			"Active": true,
+			"SpecCount": 0,
+			"VariantCount": 0,
+			"ShipFromAddressID": null,
+			"Inventory": {
+				"Enabled": false,
+				"NotificationPoint": null,
+				"VariantLevelTracking": false,
+				"OrderCanExceed": false,
+				"QuantityAvailable": null,
+				"LastUpdated": "2022-11-24T06:16:42.4+00:00"
+			},
+			"DefaultSupplierID": null,
+			"AllSuppliersCanSell": false,
+			"Returnable": false,
+			"xp": {
+				"Price": 80,
+				"Images": [
+					{
+						"url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/black_hat_1.png"
+					},
+					{
+						"url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/black_hat_2.png"
+					},
+					{
+						"url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/black_hat_3.png"
+					}
+				],
+				"PriceCurrency": "USD"
+			}
+		},
+		{
+			"OwnerID": "TApMOk6Uj1P8syWT",
+			"DefaultPriceScheduleID": "mask",
+			"AutoForward": false,
+			"ID": "mask",
+			"Name": "Mask",
+			"Description": "This durable face mask is made from two layers of treated fabric and features elastic ear loops and a center flat seam that ensure a close fit. It's machine-washable and reusable. Sold in packs of 3.",
+			"QuantityMultiplier": 1,
+			"ShipWeight": null,
+			"ShipHeight": null,
+			"ShipWidth": null,
+			"ShipLength": null,
+			"Active": true,
+			"SpecCount": 1,
+			"VariantCount": 2,
+			"ShipFromAddressID": null,
+			"Inventory": {
+				"Enabled": false,
+				"NotificationPoint": null,
+				"VariantLevelTracking": false,
+				"OrderCanExceed": false,
+				"QuantityAvailable": null,
+				"LastUpdated": "2022-11-24T06:16:42.843+00:00"
+			},
+			"DefaultSupplierID": null,
+			"AllSuppliersCanSell": false,
+			"Returnable": false,
+			"xp": {
+				"Price": 39,
+				"Images": [
+					{
+						"url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/mask_1.png"
+					},
+					{
+						"url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/mask_2.png"
+					},
+					{
+						"url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/mask_3.png"
+					},
+					{
+						"url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/mask_4.png"
+					}
+				],
+				"PriceCurrency": "USD"
+			}
+		}
+	]
+}

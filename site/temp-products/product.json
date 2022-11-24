@@ -1,0 +1,43 @@
+{
+    "OwnerID": "TApMOk6Uj1P8syWT",
+    "DefaultPriceScheduleID": "black-hat",
+    "AutoForward": false,
+    "ID": "black-hat",
+    "Name": "A new item",
+    "Description": "THis is a new description",
+    "QuantityMultiplier": 1,
+    "ShipWeight": null,
+    "ShipHeight": null,
+    "ShipWidth": null,
+    "ShipLength": null,
+    "Active": true,
+    "SpecCount": 0,
+    "VariantCount": 0,
+    "ShipFromAddressID": null,
+    "Inventory": {
+        "Enabled": false,
+        "NotificationPoint": null,
+        "VariantLevelTracking": false,
+        "OrderCanExceed": false,
+        "QuantityAvailable": null,
+        "LastUpdated": "2022-11-24T06:16:42.4+00:00"
+    },
+    "DefaultSupplierID": null,
+    "AllSuppliersCanSell": false,
+    "Returnable": false,
+    "xp": {
+        "Price": 80,
+        "Images": [
+            {
+                "url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/black_hat_1.png"
+            },
+            {
+                "url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/black_hat_2.png"
+            },
+            {
+                "url": "https://ocdevops.blob.core.windows.net/vercel-integration-assets/black_hat_3.png"
+            }
+        ],
+        "PriceCurrency": "USD"
+    }
+}
