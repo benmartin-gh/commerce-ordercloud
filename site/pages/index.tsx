@@ -41,8 +41,8 @@ export default function Home({
   return (
     <>
     <Hero
-        headline=" Something new"
-        description="hello new thing "
+        headline="Demo"
+        description="Branch "
       />
       <Grid variant="filled">
         {products.slice(0, 3).map((product: any, i: number) => (
